@@ -61,7 +61,7 @@ pyfiglet==0.7.5
 PyMsgBox==1.0.6
 PyNaCl==1.2.1
 pyocr==0.4.7
-pyOpenSSL==17.0.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pypng==0.0.18
 PyScreeze==0.1.13
